@@ -19,3 +19,7 @@ c) <img src="https://render.githubusercontent.com/render/math?math=\bbox[white]{
 - https://primes.utm.edu/mersenne/NewMersenneConjecture.html
 - https://primes.utm.edu/mersenne/index.html
 - https://en.wikipedia.org/wiki/Mersenne_conjectures#New_Mersenne_conjecture
+
+## Citation
+- Bateman, P. T., J. L. Selfridge, and S. S. Wagstaff. “The Editor’s Corner: The New Mersenne Conjecture.” The American Mathematical Monthly 96, no. 2 (1989): 125–28. https://doi.org/10.2307/2323195.
+  - I do belive this to be the origin of *The New Mersenne Prime Conjecture*
