@@ -1,6 +1,8 @@
 # The New Mersenne Prime Conjecture
 I'm interested in taking an attempt of proving [The New Mersenne Prime Conjecture](https://en.wikipedia.org/wiki/Mersenne_conjectures#New_Mersenne_conjecture), any outside input is welcome, why I'm opensourcing my efforts here over at GitHub. This is both an atempt at proving the mentioned mathematical conjecture as well as me experimenting doing mathematics in the same manner as open-source software.
 
+The produced paper is found here: https://github.com/VictorieeMan/TheNewMersennePrimeConjecture/blob/main/LaTeX/TheNewMersennePrimeConjecture_VictorEkekrantz_2021.pdf
+
 Here follows the conjecture;
 
 ## Conjecture:
